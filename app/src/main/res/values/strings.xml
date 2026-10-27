@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Campus Lost &amp; Found</string>
+    <string name="app_tagline">Reconnecting Students with Lost Belongings</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_welcome">Welcome to Campus Lost &amp; Found</string>
+    <string name="splash_loading">Initializing app…</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Sign In</string>
+    <string name="login_subtitle">Enter your credentials to access your account</string>
+    <string name="hint_email_username">Email or Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="forgot_password_link">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="register_link">Register Here</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Register to report and claim lost items</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="login_link">Sign In</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="forgot_password_subtitle">Enter your registered email address to receive password recovery instructions.</string>
+    <string name="btn_send_recovery">Send Reset Instructions</string>
+    <string name="back_to_login">Back to Sign In</string>
+    <string name="have_reset_code">Already have a reset link / code?</string>
+    <string name="go_to_reset">Reset Password Now</string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_subtitle">Please enter and confirm your new password below</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="btn_reset_password">Update Password</string>
+
+    <!-- Home / Dashboard Screen -->
+    <string name="home_welcome">Hello, </string>
+    <string name="home_subtitle">What would you like to do today?</string>
+    <string name="search_hint">Search lost items on campus…</string>
+    <string name="dashboard_modules_title">Main Modules</string>
+
+    <!-- Modules -->
+    <string name="module_report_lost">Report Lost Item</string>
+    <string name="module_report_lost_desc">File a detailed report for an item you lost</string>
+
+    <string name="module_report_found">Report Found Item</string>
+    <string name="module_report_found_desc">List an item you found on campus</string>
+
+    <string name="module_browse">Browse Items</string>
+    <string name="module_browse_desc">View all reported lost and found items</string>
+
+    <string name="module_my_claims">My Claims</string>
+    <string name="module_my_claims_desc">Check the status of your item claims</string>
+
+    <string name="module_campus_map">Campus Drop Points</string>
+    <string name="module_campus_map_desc">Locate lost &amp; found offices on campus</string>
+
+    <string name="module_profile">My Profile</string>
+    <string name="module_profile_desc">View account details and logout</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">User Profile</string>
+    <string name="profile_role">Student</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_department">Department</string>
+    <string name="val_student_id">CS-2024-8891</string>
+    <string name="val_department">School of Computer Science</string>
+    <string name="stat_reported">Items Reported</string>
+    <string name="stat_found">Items Recovered</string>
+    <string name="btn_logout">Log Out</string>
+
+    <!-- Validation & Messages -->
+    <string name="err_empty_field">This field is required</string>
+    <string name="err_invalid_email">Please enter a valid email address</string>
+    <string name="err_password_short">Password must be at least 6 characters</string>
+    <string name="err_passwords_dont_match">Passwords do not match</string>
+    <string name="err_invalid_credentials">Invalid email or password</string>
+    <string name="msg_login_success">Login successful!</string>
+    <string name="msg_registration_success">Account registered successfully!</string>
+    <string name="msg_recovery_sent">Recovery instructions sent to </string>
+    <string name="msg_password_reset_success">Password updated! Please sign in.</string>
+    <string name="msg_logged_out">Logged out successfully</string>
+    <string name="msg_module_clicked">Selected: </string>
+</resources>

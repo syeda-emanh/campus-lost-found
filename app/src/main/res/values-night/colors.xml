@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#60A5FA</color>
+    <color name="primary_dark">#1E293B</color>
+    <color name="primary_accent">#3B82F6</color>
+    <color name="accent">#2DD4BF</color>
+    <color name="accent_light">#115E59</color>
+
+    <color name="background">#0F172A</color>
+    <color name="surface">#1E293B</color>
+    <color name="card_stroke">#334155</color>
+
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_hint">#64748B</color>
+
+    <color name="error">#F87171</color>
+    <color name="success">#34D399</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Module card icon background colors (Night Mode) -->
+    <color name="icon_bg_1">#312E81</color>
+    <color name="icon_tint_1">#A5B4FC</color>
+
+    <color name="icon_bg_2">#064E3B</color>
+    <color name="icon_tint_2">#6EE7B7</color>
+
+    <color name="icon_bg_3">#78350F</color>
+    <color name="icon_tint_3">#FDE68A</color>
+
+    <color name="icon_bg_4">#581C87</color>
+    <color name="icon_tint_4">#E9D5FF</color>
+
+    <color name="icon_bg_5">#0C4A6E</color>
+    <color name="icon_tint_5">#7DD3FC</color>
+
+    <color name="icon_bg_6">#831843</color>
+    <color name="icon_tint_6">#FBCFE8</color>
+</resources>
